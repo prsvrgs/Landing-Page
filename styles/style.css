@@ -12,7 +12,13 @@ body {
 }
 
 .cabecalho {
-    padding: 2% 0% 0% ;
+    padding: 2% 15% 0%;
+}
+
+.cabecalho__menu {
+    display:flex;
+    gap: 80px
+
 }
 
 .cabecalho__menu__link {
@@ -20,11 +26,12 @@ body {
     font-size: 24px;
     font-weight: 600px;
     color:#22D4FD;
+    text-decoration: none;
 
 }
 
 .apresentacao {
-    padding: 8% 15%;
+    padding: 5% 15%;
     display:flex;
     align-items: center;
     justify-content: space-between;
@@ -93,5 +100,4 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 24px;
     font-weight: 400;
-
 }
