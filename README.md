@@ -21,7 +21,7 @@ Durante a criação desta landing page, aprendi muitas coisas legais, como:
 
 ## Acesse a Landing Page
 
-👉 Aqui! [https://purikoi.github.io/Landing-Page/) 👈
+👉 [Clique Aqui!](https://purikoi.github.io/Landing-Page/) 👈
 
 ## Contribuições
 
